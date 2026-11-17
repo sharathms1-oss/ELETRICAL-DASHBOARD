@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.clasp.json
+# company data - never commit
+public/dev-data.json
+*.local.json
+backend/index.html
